@@ -131,7 +131,7 @@
     <string name="about_name">versión</string>
     <string name="develop">Próximamente……</string>
     <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">Esta aplicación necesita una lista blanca de optimización de batería o no funcionará bien. Restablece las preferencias de la aplicación</string>
-    <string name="please_Allow_Permission">Por favor permita permiso</string>
+    <string name="please_Allow_Permission">Por favor dé permiso</string>
     <string name="needs_battery_optimization_whitelisting_for_proper_performance">Esta aplicación necesita una lista blanca de optimización de batería o no funcionará bien.</string>
     <string name="bluetooth_error_not_supported">Error: Bluetooth no es compatible con este dispositivo</string>
     <string name="high">Alta</string>
@@ -201,10 +201,10 @@
     <string name="alert_snooze">Dormitar</string>
     <string name="alert_choose">Elegir</string>
     <string name="alert_time">Tiempo</string>
-    <string name="alert_more">Mas alarmas</string>
+    <string name="alert_more">Más alarmas</string>
     <string name="choose_default">Defecto</string>
     <string name="choose_custom">Personalizado</string>
-    <string name="unit_day">dia</string>
+    <string name="unit_day">día</string>
     <string name="noty_rise_title">La glucosa está subiendo</string>
     <string name="noty_rise_content">La glucosa está subiendo:</string>
     <string name="noty_drop_content">La glucosa está bajando:</string>
@@ -236,19 +236,20 @@
     <string name="trendsingleup">hacia arriba de forma significativa</string>
     <string name="trenddoubleup">hacia arriba de forma acentuada</string>
     <!--2021-03-23-->
-    <string name="unit_days" translatable="false">days</string>
-    <string name="donation" translatable="false">Donation</string>
-    <string name="never" translatable="false">Never</string>
-    <string name="speak_bg_reading" translatable="false">Speak BG Readings</string>
-    <string name="speak_bg_trend" translatable="false">Speak BG Trend</string>
-    <string name="speak_bg_delta" translatable="false">Speak BG Delta</string>
-    <string name="speak_interval" translatable="false">Interval</string>
-    <string name="speak_use_glucose" translatable="false">Use Gluose Thresholds</string>
-    <string name="speak_high" translatable="false">High Thresholds</string>
-    <string name="speak_low" translatable="false">Low Thresholds</string>
-    <string name="speak_override" translatable="false">Override System Volume</string>
-    <string name="speak_custom_volume" translatable="false">Custom Volume</string>
-    <string name="speech_setting" translatable="false">Speech Setting</string>
+    <string name="unit_days">días</string>
+    <string name="donation">Donación</string>
+    <string name="never">Nunca</string>
+    <string name="speak_bg_reading">Decir las Lecturas de glucosa</string>
+    <string name="speak_bg_trend">Decir las Tendencias de glucosa</string>
+    <string name="speak_bg_delta">Decir las Variaciones de glucosa</string>
+    <string name="speak_interval">Intervalo</string>
+    <string name="speak_use_glucose">Usar umbrales de glucosa</string>
+    <string name="speak_high">Umbrales altos</string>
+    <string name="speak_low">Umbrales bajos</string>
+    <string name="speak_override">Anular el Volumen del Sistema</string>
+    <string name="speak_custom_volume">Volumen personalizado</string>
+    <string name="speech_setting">Ajustes de habla</string>
+    <!--2021-03-30-->
     <string name="nfc_scan" translatable="false">Scanning…</string>
     <string name="nfc_io_error" translatable="false">NFC IO Error…</string>
     <string name="nfc_error" translatable="false">NFC Error</string>
